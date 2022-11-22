@@ -12,7 +12,7 @@
 <details align="center">
 <summary> &#9655;</summary>
 
-![alt](https://tenor.com/buuYq.gif)
+![alt](love-happy.gif)
 
 <h2></h2><br>
 
