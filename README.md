@@ -1,16 +1,26 @@
-### Hi there 👋
+<p align="left"><b><samp>「</samp></b></p>
+  <p align="center">
+    <samp>
+      stay hungry,<br>
+      stay foolish.<br>
+    </samp>
+  </p>
+<p align="right"><b><samp>」</samp></b></p>
 
-<!--
-**evandaru/evandaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<details align="center">
+<summary> &#9655;</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![alt](ikan.png)
+
+<h2></h2><br>
+
+return `stay slay dan love iwak`;
+
+
+[<a href="https://t.me/evndaru">My Telegram</a>]
+
+
+
+</details>
