@@ -12,7 +12,7 @@
 <details align="center">
 <summary> &#9655;</summary>
 
-![alt](ikan.png)
+![alt](https://tenor.com/buuYq.gif)
 
 <h2></h2><br>
 
