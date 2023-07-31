@@ -20,7 +20,8 @@ return `stay slay dan love iwak`;
 
 
 [<a href="https://t.me/evndaru">My Telegram</a>]
-
+btw saya masih perlu banyak belajar karena saya adalah faqirul ilm hiks
+jadi mohon bantuannya kepada teman2 saya yg membaca/ membuka ini harap maklum wkkwkwkw karena ya tadi saya masih perlu banyak sekali untuk belajar oawkawokowakoawkwoa
 
 
 </details>
