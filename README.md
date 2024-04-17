@@ -1,27 +1,22 @@
-<p align="left"><b><samp>「</samp></b></p>
-  <p align="center">
-    <samp>
-      stay hungry,<br>
-      stay foolish.<br>
-    </samp>
-  </p>
-<p align="right"><b><samp>」</samp></b></p>
+# Just Ordinary People 😂
 
-<br>
+## Introduction
+Hello there! Welcome to our corner of GitHub. We're just a bunch of ordinary folks trying to make our mark in the vast digital landscape. Whether you're a seasoned developer or a curious newcomer, we're glad to have you here!
 
-<details align="center">
-<summary> &#9655;</summary>
-
-![alt](love-happy.gif)
-
-<h2></h2><br>
-
-return `stay slay dan love iwak`;
+## About Us
+I am an individual with a strong interest in the world of technology. Despite my educational background originating from a pesantren (Islamic boarding school), my interest in technology has driven me to explore further in this field. Currently, I am pursuing my education at Duta Bangsa University, where I strive to develop my understanding and skills in various aspects of technology.
 
 
-[<a href="https://t.me/evndaru">My Telegram</a>]
-btw saya masih perlu banyak belajar karena saya adalah faqirul ilm hiks
-jadi mohon bantuannya kepada teman2 saya yg membaca/ membuka ini harap maklum wkkwkwkw karena ya tadi saya masih perlu banyak sekali untuk belajar oawkawokowakoawkwoa
+## Get in Touch
+Got questions, ideas, or just want to say hi? Feel free to reach out:
+
+- Email: fauzanhasyim@gmail.com
+- Twitter: [@evndaru](https://https://twitter.com/evndaru)
+- LinkedIn: [Fauzan hasyim](https://www.linkedin.com/in/fauzan-hasyim-808a58217)
+
+We're excited to connect with you!
 
 
-</details>
+## License
+This project is licensed under the [MIT License](link-to-license). Feel free to fork, modify, and share!
+
