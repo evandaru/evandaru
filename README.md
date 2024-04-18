@@ -11,7 +11,7 @@ I am an individual with a strong interest in the world of technology. Despite my
 Got questions, ideas, or just want to say hi? Feel free to reach out:
 
 - Email: fauzanhasyim@gmail.com
-- Twitter: [@evndaru](https://https://twitter.com/evndaru)
+- Twitter: [@evndaru](https://twitter.com/evndaru)
 - LinkedIn: [Fauzan hasyim](https://www.linkedin.com/in/fauzan-hasyim-808a58217)
 
 We're excited to connect with you!
