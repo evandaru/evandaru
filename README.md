@@ -20,4 +20,5 @@ We're excited to connect with you!
 ## License
 This project is licensed under the [MIT License](link-to-license). Feel free to fork, modify, and share!
 
-![Lobe Happy](path/to/lobe-happy.gif)
+
+![love-happy](https://github.com/evandaru/evandaru/assets/108566614/8c2e0b4c-ff4c-431a-a3db-04fa5efa6f37)
