@@ -28,15 +28,13 @@ Sure, here's the updated version of your GitHub README content, replacing the re
 
 - 🌱 I’m currently learning **how to build and scale fullstack applications using both MERN (MongoDB, Express, React, Node.js) and Laravel frameworks.**
 
-- ☁️ I've keen interest in cloud computing. So, I'm learning **AWS to integrate with scalable backend solutions.**
-
 - 📝 I regularly write articles on [Blog](https://blog.evandaru.site/)
 
-- 💬 Ask me about **MERN Stack, Laravel, Node.js, MongoDB, AWS**
+- 💬 Ask me about **MERN Stack, Laravel, Node.js, MongoDB, SQL and more**
 
-- 📫 Feel free to reach me at **evandaru@example.com**
+- 📫 Feel free to reach me at **fauzanhasyimm@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord – [Evandaru](https://discordapp.com/users/957722095381540874) my username!
+- 🏠 Don't hesitate to drop me a **👋** on Telegram – [evndaru](https://t.me//evndaru) my username!
 <!--Intro end-->
 
 
