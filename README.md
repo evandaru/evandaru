@@ -1,4 +1,4 @@
----
+
 
 <!--horizontal divider(gradiant)-->
 
@@ -87,10 +87,3 @@
 
 ----------------------------------------------------------------------
 
-Credit: [Evandaru](https://github.com/evandaru)
-
-Last Edited on: 29/4/2023
-
---- 
-
-All instances of the previous username and related details have been replaced with "evandaru" and your new GitHub link. Let me know if you need further adjustments!
