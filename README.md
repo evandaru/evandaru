@@ -37,6 +37,7 @@
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
+   <summary><h2 style="display: inline-block">My Stats👨🏻‍💻</h2></summary>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Evandaru streak" src="https://github-readme-streak-stats.herokuapp.com/?user=evandaru&theme=dark&hide_border=false" /> 
 
 <!--- stats (end) -->
