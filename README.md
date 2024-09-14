@@ -3,7 +3,9 @@ Sure, here's the updated version of your GitHub README content, replacing the re
 ---
 
 <!--horizontal divider(gradiant)-->
-<img src="https://github.com/evandaru/blog-images/assets/108566614/8693742b-4b03-45df-848d-4c4ea135e892">
+<div align="center">
+  <img src="https://github.com/evandaru/blog-images/assets/108566614/8693742b-4b03-45df-848d-4c4ea135e892" alt="Evandaru's Image" style="width: 200px; height: auto;" />
+</div>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
