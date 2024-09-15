@@ -41,7 +41,7 @@
 
 <!--profile visit count-->
 
-![Fauzan](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact)
+![Fauzan](https://github-readme-stats.vercel.app/api/wakatime?username=evandaru\&layout=compact)
 
 <!--tech stack icons-->
 <p align="left">
