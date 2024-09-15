@@ -14,7 +14,7 @@
 </div>
 
 <div align="left">
-  <img src="https://github.com/evandaru/blog-images/assets/108566614/8693742b-4b03-45df-848d-4c4ea135e892" alt="Evandaru's Image" style="width: 200px; height: auto;" />
+  <img src="https://github.com/evandaru/blog-images/assets/108566614/8693742b-4b03-45df-848d-4c4ea135e892" alt="Evandaru's Image" style="width: 10px; height: auto;" />
 </div>
 
 <!--h2 without bottom border-->
