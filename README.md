@@ -39,7 +39,7 @@
 
 ![Fauzan](https://github-readme-stats.vercel.app/api?username=evandaru\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-<!--profile visit count-->
+<!--profil visit count-->
 
 ![Fauzan](https://github-readme-stats.vercel.app/api/wakatime?username=evandaru\&layout=compact)
 
