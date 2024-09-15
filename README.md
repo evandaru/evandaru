@@ -36,26 +36,16 @@
 - 📫 Feel free to reach me at **fauzanhasyimm@gmail.com**
 
 - 🏠 Don't hesitate to drop me a **👋** on Telegram – [evndaru](https://t.me//evndaru) my username!
+
 <!--Intro end-->
 
-<!--- stats & Trophy (start) -->
-<p align="left">
-  <!--- stats (start) -->
-<h2 style="display: inline-block">My Stats👨🏻‍💻</h2>
+![Fauzan](https://github-readme-streak-stats.herokuapp.com/?user=evandaru&theme=hide_border=false)
 
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Evandaru streak" src="https://github-readme-streak-stats.herokuapp.com/?user=evandaru&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api?username=evandaru&theme=dark&show_icons=true&count_private=true" />
-  <!--- stats (end) -->
+![Fauzan](https://github-readme-stats.vercel.app/api?username=evandaru\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-</p>        
-<!--- stats (end) -->
+<!--profile visit count-->
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+![Fauzan](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact)
 
 <!--tech stack icons-->
 <p align="left">
@@ -64,12 +54,8 @@
 </a>
 </p>
 
-<!--profile visit count-->
-<div align="center">
-  
 [![](https://visitcount.itsvg.in/api?id=evandaru&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
