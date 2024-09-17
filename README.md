@@ -20,21 +20,23 @@
   </ul>
 </div>
 
+Berikut versi yang lebih singkat:
+
+---
+
 <!--Intro start-->
-- 🔭 I’m currently working on **Fullstack Development with MERN Stack and Laravel**
-
-- 🌱 I’m currently learning **how to build and scale fullstack applications using both MERN (MongoDB, Express, React, Node.js) and Laravel frameworks.**
-
-- 📝 I regularly write articles on [Blog](https://blog.evandaru.site/)
-
-- 💬 Ask me about **MERN Stack, Laravel, Node.js, MongoDB, SQL and more**
-
-- 📫 Feel free to reach me at **fauzanhasyimm@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Telegram – [evndaru](https://t.me//evndaru) my username!
-
+- 👋 Hi, I’m **Fauzan Hasyim**, a MERN Fullstack Developer enthusiast.
+- 👀 Interested in **web development** and **AI prompt engineering**.
+- 🌱 Currently learning **MERN Stack** and diving into **AI**.
+- 💼 Open to collaborating on **website** .
+- 📫 Reach me via **email** at fauzanhasyimm@gmail.com .
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: I love **sleep** and **logic puzzles**.
 <!--Intro end-->
 
+---
+
+Ini sudah lebih ringkas, tapi tetap informatif.
 ![Fauzan](https://github-readme-streak-stats.herokuapp.com/?user=evandaru&theme=hide_border=false)
 
 ![Fauzan](https://github-readme-stats.vercel.app/api?username=evandaru\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
