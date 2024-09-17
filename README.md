@@ -20,10 +20,6 @@
   </ul>
 </div>
 
-Berikut versi yang lebih singkat:
-
----
-
 <!--Intro start-->
 - 👋 Hi, I’m **Fauzan Hasyim**, a MERN Fullstack Developer enthusiast.
 - 👀 Interested in **web development** and **AI prompt engineering**.
@@ -36,7 +32,6 @@ Berikut versi yang lebih singkat:
 
 ---
 
-Ini sudah lebih ringkas, tapi tetap informatif.
 ![Fauzan](https://github-readme-streak-stats.herokuapp.com/?user=evandaru&theme=hide_border=false)
 
 ![Fauzan](https://github-readme-stats.vercel.app/api?username=evandaru\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
