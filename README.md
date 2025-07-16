@@ -8,7 +8,7 @@
 <!-- README.md for https://github.com/evandaru -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="wave hi gif"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajIxcnMweDZodmI5eXJsbHA3djB5c29qdDFmcDYzMmEwMXlqcW1sdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GjFGuBg0GjJL8JoPXn/giphy.gif" width="120" alt="wave hi gif"/>
 </p>
 
 <h1 align="center">Hey, I'm Fauzan</h1>
