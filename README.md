@@ -3,7 +3,7 @@
 <div align="center">
 
 <div align="left">
-  <img src="[https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg](https://i.pinimg.com/1200x/51/31/7c/51317c8bab13316f7a8863819c17df17.jpg)" alt="Bannere" />
+  <img src="https://i.pinimg.com/1200x/51/31/7c/51317c8bab13316f7a8863819c17df17.jpg" alt="Bannere" />
 </div>
 
 <pre style="text-align: left; display: inline-block; border: 2px solid #000; padding: 10px; background: #fff; color: #000; box-shadow: 5px 5px 0 #000;">
